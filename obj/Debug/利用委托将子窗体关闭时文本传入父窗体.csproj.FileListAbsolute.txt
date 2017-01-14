@@ -1,0 +1,10 @@
+d:\Visual Studio 2017\Projects\委托练习\利用委托将子窗体关闭时文本传入父窗体\bin\Debug\利用委托将子窗体关闭时文本传入父窗体.exe.config
+d:\Visual Studio 2017\Projects\委托练习\利用委托将子窗体关闭时文本传入父窗体\bin\Debug\利用委托将子窗体关闭时文本传入父窗体.exe
+d:\Visual Studio 2017\Projects\委托练习\利用委托将子窗体关闭时文本传入父窗体\bin\Debug\利用委托将子窗体关闭时文本传入父窗体.pdb
+d:\Visual Studio 2017\Projects\委托练习\利用委托将子窗体关闭时文本传入父窗体\obj\Debug\利用委托将子窗体关闭时文本传入父窗体.csprojResolveAssemblyReference.cache
+d:\Visual Studio 2017\Projects\委托练习\利用委托将子窗体关闭时文本传入父窗体\obj\Debug\利用委托将子窗体关闭时文本传入父窗体.Form1.resources
+d:\Visual Studio 2017\Projects\委托练习\利用委托将子窗体关闭时文本传入父窗体\obj\Debug\利用委托将子窗体关闭时文本传入父窗体.Form2.resources
+d:\Visual Studio 2017\Projects\委托练习\利用委托将子窗体关闭时文本传入父窗体\obj\Debug\利用委托将子窗体关闭时文本传入父窗体.Properties.Resources.resources
+d:\Visual Studio 2017\Projects\委托练习\利用委托将子窗体关闭时文本传入父窗体\obj\Debug\利用委托将子窗体关闭时文本传入父窗体.csproj.GenerateResource.Cache
+d:\Visual Studio 2017\Projects\委托练习\利用委托将子窗体关闭时文本传入父窗体\obj\Debug\利用委托将子窗体关闭时文本传入父窗体.exe
+d:\Visual Studio 2017\Projects\委托练习\利用委托将子窗体关闭时文本传入父窗体\obj\Debug\利用委托将子窗体关闭时文本传入父窗体.pdb
